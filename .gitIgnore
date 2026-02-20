@@ -1,0 +1,6 @@
+log.html
+report.html
+output.xml
+screenshots/
+__pycache__/
+*.pyc
